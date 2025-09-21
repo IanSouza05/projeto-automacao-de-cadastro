@@ -21,9 +21,6 @@ Este projeto em Python usa a biblioteca PyAutoGUI para automatizar o cadastro de
 O arquivo produtos.csv contem as seguintes colunas:
 
 codigo, marca, tipo, categoria, preco_unitario, custo, obs
-0 - 12345, MarcaX, Eletrônico, Celular, 1200.00, 800.00, ""
-1 - 67890, MarcaY, Eletrodoméstico, Geladeira, 2500.00, 1800.00, "Produto em promoção"
-....
 
 ▶️ Como executar
 
